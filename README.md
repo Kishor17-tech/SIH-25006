@@ -96,6 +96,8 @@ We propose the development of a Digital Farm Biosecurity Management Portal (DFBM
 * Multilingual, Mobile-First Approach: Ensures inclusivity for rural and semi-literate users.
 
 ## Technical Approach:
+<img width="1024" height="1024" alt="technical approach" src="https://github.com/user-attachments/assets/c61d4348-0a47-4ebd-9b6e-b7e466e05978" />
+
 Technologies to be Used:
 
 * Frontend: React.js / Flutter (for Web & Mobile)
